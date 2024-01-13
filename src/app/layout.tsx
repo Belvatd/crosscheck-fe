@@ -12,7 +12,7 @@ const interFont = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Trash Hub",
+  title: "Crosscheck Medical Record",
   description: "PWA application with Next 13",
   generator: "Next.js",
   manifest: "/manifest.json",
